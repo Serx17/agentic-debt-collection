@@ -199,8 +199,8 @@ python demo/test_full_pipeline.py
 
 ---
 
-**Автор:** [Твоё Имя]  
+**Автор:** : Сергей Антоненко  
 **Позиция:** Head of AI / AI Architect  
-**Контакт:** [Твой Email / LinkedIn / Telegram]
+**Контакт:** snantonenko17@gmail.com / tenchat.ru/4931217 / @nspoli
 
 *Этот проект демонстрирует способность строить production-ready AI-системы для финтеха с гарантированным compliance и архитектурными гарантиями безопасности.*
